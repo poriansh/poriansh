@@ -12,3 +12,5 @@ const response = {
     currently: "Learning Front-end Development"
   },
 };
+```
+![Cat Typing](https://media.giphy.com/media/7rN1HXSnG2fB6/giphy.gif)
