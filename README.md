@@ -1,4 +1,4 @@
-# ![Animated Cat](https://iconarchive.com/download/i94225/Flat-Icon-Design/Cat-icon.ico) Read More About Me
+# ![Animated Cat]([https://iconarchive.com/download/i94225/Flat-Icon-Design/Cat-icon.ico](https://www.flaticon.com/free-animated-icon/cat_10606339?term=cat&page=1&position=14&origin=search&related_id=10606339)) Read More About Me
 ```javascript
 const response = {
   status: 200,
