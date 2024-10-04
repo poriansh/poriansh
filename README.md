@@ -1,4 +1,4 @@
-# ![cat](https://cdn.iconscout.com/icon/free/png-256/cat-2154705-1793672.png) Read More About Me
+# ![Animated Cat](https://iconarchive.com/download/i94225/Flat-Icon-Design/Cat-icon.ico) Read More About Me
 ```javascript
 const response = {
   status: 200,
