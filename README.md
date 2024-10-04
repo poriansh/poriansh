@@ -32,4 +32,3 @@ const response = {
   </a>
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,sass,less,git,github,postman,figma,xd,wordpress,vscode)]
