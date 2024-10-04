@@ -1,4 +1,4 @@
-# ![cat gif](https://media.giphy.com/media/12HZukMBlutpoQ/giphy-downsized
+# ![cat gif](https://media.giphy.com/media/12HZukMBlutpoQ/giphy-downsized)
 ```javascript
 const response = {
   status: 200,
