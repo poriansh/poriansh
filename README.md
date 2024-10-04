@@ -26,6 +26,7 @@ const response = {
 </p>
 
 <h2>Skills</h2>
+<br>
 <p>
   <a>
     <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,sass,less,git,github,postman,figma,xd,wordpress,vscode" />
