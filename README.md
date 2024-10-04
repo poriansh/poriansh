@@ -1,4 +1,4 @@
-# ![cat gif](https://media.giphy.com/media/v6aOjy0Qo1fIA/giphy.gif) Read More About Me
+# ![cat gif](https://media.giphy.com/media/12HZukMBlutpoQ/giphy-downsized
 ```javascript
 const response = {
   status: 200,
