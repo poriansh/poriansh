@@ -31,7 +31,6 @@ const response = {
     <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,sass,less,git,github,postman,figma,xd,wordpress,vscode" />
   </a>
 </p>
-<br>
 <h2>📲 social</h2>
 <div align="center">
   <a href="https://www.instagram.com/leo___pori">
@@ -50,8 +49,6 @@ const response = {
     <img src="https://img.shields.io/badge/Website-0078D4?style=flat&logo=Globe&logoColor=white" />
 </a>
 </div>
-<br>
-<br>
 <h2>🔥Activity status</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=poriansh&theme=dark&hide_border=true&include_all_commits=true">
