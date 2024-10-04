@@ -1,4 +1,4 @@
-# ![cat gif](https://media.giphy.com/media/12HZukMBlutpoQ/giphy-downsized-small.gif) Read More About Me
+![cat](https://cdn.iconscout.com/icon/free/png-256/cat-2154705-1793672.png) Read More About Me
 ```javascript
 const response = {
   status: 200,
