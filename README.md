@@ -13,4 +13,5 @@ const response = {
   },
 };
 ```
-![Cat Typing](https://media.giphy.com/media/7rN1HXSnG2fB6/giphy.gif)
+![Cat Typing](https://media.giphy.com/media/3oz8xQfYQw5kQnFFQ0/giphy.gif)
+
