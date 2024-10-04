@@ -1,10 +1,4 @@
-# About Me
-#### 👋 Hi, I'm Pouria Neishabourian 
-#### 🎓 computer science student.  
-#### 💻 I'm passionate about front-end development 
-#### 📚 and currently learning more to enhance my skills in this field.
-
-## ![bird](https://img.icons8.com/color/48/000000/bird.png) Read More About Me
+# ![bird](https://img.icons8.com/color/48/000000/bird.png) Read More About Me
 ```javascript
 const response = {
   status: 200,
