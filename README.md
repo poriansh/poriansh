@@ -44,6 +44,13 @@ const response = {
 <a style="display: inline;">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=Gmail&logoColor=white" />
 </a>
-<a style="display: inline;">
+<span>
+  <a>
     <img src="https://img.shields.io/badge/Website-0078D4?style=flat&logo=Globe&logoColor=white" />
 </a>
+</span>
+<span>
+  <a>
+    <img src="https://img.shields.io/badge/Website-0078D4?style=flat&logo=Globe&logoColor=white" />
+</a>
+</span>
