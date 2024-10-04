@@ -44,7 +44,7 @@ const response = {
 </a>
 </span>
 <span>
-  <a href="https://wa.me/989302473392">
+  <a href="https://wa.me/989302473392" style="display : flex;">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=WhatsApp&logoColor=white" />
 </a>
 </span>
