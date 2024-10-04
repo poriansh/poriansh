@@ -44,12 +44,12 @@ const response = {
 </a>
 </span>
 <span>
-  <a اhref="https://wa.me/989302473392">
+  <a href="https://wa.me/989302473392">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=WhatsApp&logoColor=white" />
 </a>
 </span>
 <span>
-  <a اhref="mailto:poria.nsh@gmail.com">
+  <a href="mailto:poria.nsh@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=Gmail&logoColor=white" />
 </a>
 </span>
