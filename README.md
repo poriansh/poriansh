@@ -26,7 +26,7 @@ const response = {
 </p>
 
 <h2>🛠️ Skills</h2>
-<p>
+<p align="center">
   <a>
     <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,sass,less,git,github,postman,figma,xd,wordpress,vscode" />
   </a>
@@ -61,6 +61,6 @@ const response = {
 <br>
 <br>
 <h2>🔥Activity status</h2>
-<div>
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=poriansh&theme=dark&hide_border=true&include_all_commits=true">
 </div>
