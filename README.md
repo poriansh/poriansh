@@ -60,12 +60,10 @@ const response = {
 </span>
 <br>
 <h2>Activity status</h2>
+<span>
 <img src="https://github-readme-stats.vercel.app/api?username=poriansh&theme=dark&hide_border=true&include_all_commits=true">
+</span>
+<span>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poriansh&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+</span>
 
-
-
----
-[![](https://visitcount.itsvg.in/api?id=poriansh&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
