@@ -1,4 +1,4 @@
-## About Me
+## 👋 About Me
 
 
 ```javascript
@@ -25,14 +25,14 @@ const response = {
 </a>
 </p>
 
-<h2>Skills</h2>
+<h2>🛠️ Skills</h2>
 <p>
   <a>
     <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,sass,less,git,github,postman,figma,xd,wordpress,vscode" />
   </a>
 </p>
 <br>
-<h2>social</h2>
+<h2>📲 social</h2>
 <span>
   <a href="https://www.instagram.com/leo___pori">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" />
@@ -62,7 +62,7 @@ const response = {
 <br>
 <br>
 <br>
-<h2>Activity status</h2>
+<h2>🔥Activity status</h2>
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=poriansh&theme=dark&hide_border=true&include_all_commits=true">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poriansh&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
