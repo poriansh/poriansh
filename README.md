@@ -32,7 +32,7 @@ const response = {
   </a>
 </p>
 <h2>📲 social</h2>
-<div>
+<div align="center">
   <a href="https://www.instagram.com/leo___pori">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" />
 </a>
