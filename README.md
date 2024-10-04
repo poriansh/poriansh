@@ -49,11 +49,11 @@ const response = {
 </span>
 <span>
   <a>
-    <img src="" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=Gmail&logoColor=white" />
 </a>
 </span>
 <span>
   <a>
-    <img src="" />
+    <img src="https://img.shields.io/badge/Website-0078D4?style=flat&logo=Globe&logoColor=white" />
 </a>
 </span>
