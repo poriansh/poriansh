@@ -1,5 +1,4 @@
-##  📜 About Me
-
+## 📜 About Me
 ```javascript
 const response = {
   status: 200,
@@ -23,6 +22,5 @@ const response = {
   <img src="https://visitcount.itsvg.in/api?id=poriNSH&label=Profile%20Views&color=12&icon=1&pretty=true" />
 </a>
 </p>
-## Skills
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
