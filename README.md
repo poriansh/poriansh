@@ -1,4 +1,6 @@
 ## 📜 About Me
+
+
 ```javascript
 const response = {
   status: 200,
@@ -25,11 +27,4 @@ const response = {
 
 <h2>Skills</h2>
 
-
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-<style>
-    h1, h2, h3, h4, h5, h6 {
-        border-bottom: none; /* حذف خط زیر */
-    }
-</style>
-<h1>Your Title Here</h1>
