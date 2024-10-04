@@ -1,4 +1,4 @@
-# ![bird](https://img.icons8.com/color/48/000000/bird.png) Read More About Me
+# ![cat gif](https://media.giphy.com/media/v6aOjy0Qo1fIA/giphy.gif) Read More About Me
 ```javascript
 const response = {
   status: 200,
