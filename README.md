@@ -60,10 +60,7 @@ const response = {
 </span>
 <br>
 <br>
-<br>
-<br>
 <h2>🔥Activity status</h2>
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=poriansh&theme=dark&hide_border=true&include_all_commits=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poriansh&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
 </div>
