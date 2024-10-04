@@ -49,7 +49,7 @@ const response = {
 </a>
 </span>
 <span>
-  <a href="mailto:poria.nsh@gmail.com" style="color:black;">
+  <a href="mailto:poria.nsh@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=Gmail&logoColor=white" />
 </a>
 </span>
