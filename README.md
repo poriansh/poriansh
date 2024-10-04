@@ -6,7 +6,7 @@ const response = {
   status: 200,
   data: {
     fullName: "Pouria Neishabourian",
-    birthDay: "2005, October 4, Tuesday",
+    birthDay: "2004 , January 28 , Wednesday",
     university: "Computer Science",
     city: "Mashhad",
     hobbies: ["coding", "reading"],
