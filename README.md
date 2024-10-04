@@ -28,7 +28,7 @@ const response = {
 <h2>🛠️ Skills</h2>
 <p align="center">
   <a>
-    <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,sass,less,git,github,postman,figma,xd,wordpress,vscode" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,figma,xd,wordpress,vscode" />
   </a>
 </p>
 <br>
