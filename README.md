@@ -39,25 +39,6 @@ const response = {
 
   
 </div>
-
-
-<div align="center">
-  <a href="https://www.instagram.com/leo___pori">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" />
-</a>
-  <a href="https://t.me/webpori">
-    <img src="https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=Telegram&logoColor=white" />
-</a>
-  <a href="https://wa.me/989302473392" style="display: flex;">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=WhatsApp&logoColor=white" />
-</a>
-  <a href="mailto:poria.nsh@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=Gmail&logoColor=white" />
-</a>
-    <a href="https://resome-work.ir">
-    <img src="https://img.shields.io/badge/Website-0078D4?style=flat&logo=Globe&logoColor=white" />
-</a>
-</div>
 <h2>🔥Activity status</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=poriansh&theme=dark&hide_border=true&include_all_commits=true">
