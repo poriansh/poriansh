@@ -32,6 +32,10 @@ const response = {
   </a>
 </p>
 <h2>📲 socials</h2>
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/leo___pori) [![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=Telegram&logoColor=white)](https://t.me/webpori) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=WhatsApp&logoColor=white)](https://wa.me/989302473392) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/poriansh/) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:poria.nsh@gmail.com) [![website](https://img.shields.io/badge/Website-0078D4?style=flat&logo=Globe&logoColor=white)](https://resome-work.ir)
+
+
 <div align="center">
   <a href="https://www.instagram.com/leo___pori">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" />
