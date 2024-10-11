@@ -43,5 +43,5 @@ const response = {
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=poriansh&theme=dark&hide_border=true&include_all_commits=true">
-  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=poriansh&show_icons=true&theme=dark&rank_icon=github&border_radius=10&hide_border=true">
+  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=poriansh&count_private=true&theme=dark&rank_icon=github&border_radius=10&hide_border=true">
 </div>
