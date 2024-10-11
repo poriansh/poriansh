@@ -42,5 +42,5 @@ const response = {
 <h2>🔥Activity status</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=poriansh&count_private=true&theme=react&rank_icon=github&border_radius=10&hide_border=true">
+  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=poriansh&count_private=true&theme=react&rank_icon=github&border_radius=10&hide_border=true&show_icons=true">
 </div>
