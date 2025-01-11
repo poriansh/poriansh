@@ -21,7 +21,7 @@ const response = {
 </p>
 <p align ="center">
   <a align ="center">
-  <img align ="center" src="https://komarev.com/ghpvc/?username=poriansh&abbreviated=true&style=flat" />
+  <img align ="center" src="https://komarev.com/ghpvc/?username=poriansh&abbreviated=true&style=flat&color=gray" />
 </a>
 </p>
 
