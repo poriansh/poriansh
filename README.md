@@ -21,7 +21,7 @@ const response = {
 </p>
 <p align ="center">
   <a align ="center">
-  <img align ="center" src="https://visitcount.itsvg.in/api?id=poriNSH&label=Profile%20Views&color=12&icon=1&pretty=true" />
+  <img align ="center" src="https://komarev.com/ghpvc/?username=your-github-username&abbreviated=true" />
 </a>
 </p>
 
